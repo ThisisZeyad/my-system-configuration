@@ -1,2 +1,2 @@
 # my-system-configuration
-my void linux configuration
+# Void Linux Configuration
